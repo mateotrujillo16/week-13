@@ -1,0 +1,23 @@
+{
+  "name": "@mateot/week-13",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mateo Trujillo",
+  "license": "ISC",
+  "description": "This is a test!!",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateotrujillo16/week-13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mateotrujillo16/week-13/issues"
+  },
+  "homepage": "https://github.com/mateotrujillo16/week-13#readme"
+}
